@@ -11,6 +11,7 @@ public class Student extends Person {
     public Student(String name){
         this.status = status;}
 
+
     //The toString method that displays the class and the persons name
     @Override
     public String toString() {
